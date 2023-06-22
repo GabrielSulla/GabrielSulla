@@ -2,8 +2,8 @@
 
 - 🔭 Atualmente não trabalho na área, mas estou em busca da primeira oportunidade de  trabalho voltada para programação.
 - 🌱 Estudando Html, CSS, JavaScript, Typescript, React
-- Cursando Análise e Desenvolvimento de Sistemas
-- 😄 Pronouns: ele/dele
+- 😄 Cursando Análise e Desenvolvimento de Sistemas
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
