@@ -1,7 +1,8 @@
 ## Olá! Eu sou o Gabriel Sulla 👋
 
 - 🔭 Atualmente não trabalho na área, mas estou em busca da primeira oportunidade de  trabalho voltada para programação.
-- 🌱 Estudando JavaScript
+- 🌱 Estudando Html, CSS, JavaScript, Typescript, React
+- Cursando Análise e Desenvolvimento de Sistemas
 - 😄 Pronouns: ele/dele
 
 <div style="display: inline_block"><br>
